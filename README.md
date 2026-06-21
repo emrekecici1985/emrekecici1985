@@ -4,15 +4,31 @@ Termux ve Flask tabanlı yerel yapay zeka entegrasyonları, büyük dil modeller
 
 ---
 
-### 🛠️ Kullandığım Teknolojiler & Araçlar
-- **Backend:** Python, Flask, Subprocess Automation
-- **AI & LLM:** Llama-3.3, Llama-3.1, Groq API Integration, Vision Models
-- **Ortam & Altyapı:** Termux (Android Linux), Git, GitHub, SSE (Server-Sent Events)
+### 🛠️ Kullandığım Teknolojiler & Proje Durumu
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Status](https://img.shields.io/badge/Sistem_Durumu-Aktif-brightgreen?style=for-the-badge)
 
 ---
 
-### 🚀 Üzerinde Çalıştığım Projeler
-- **AI Workspace Pro:** Termux üzerinde koşan, otomatik hafıza özetleme (condense memory) ve çoklu API anahtarı rotasyonuna (failover) sahip, koyu tema SPA arayüzlü yerel yapay zeka asistanı.
+### 🚀 Canlı GitHub İstatistiklerim
+Geliştirme süreçlerimin ve kod aktivitelerimin anlık özeti:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emrekecici1985&show_icons=true&theme=tokyonight&count_private=true" alt="Emre'nin GitHub İstatistikleri" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrekecici1985&layout=compact&theme=tokyonight" alt="En Çok Kullanılan Diller" width="300" />
+</p>
+
+---
+
+### 🗺️ Proje Yol Haritası (Roadmap)
+Sistem mimarisini daha da büyütmek için planladığım gelecek adımları:
+- [x] Python Flask Altyapısının Kurulması
+- [x] Çoklu API Anahtarı ve Failover Mekanizması (`rotate_key`)
+- [x] Otomatik Hafıza Özetleme Sistemi (`condense_memory`)
+- [ ] Veri Tabanı (SQLite) Entegrasyonu ile Geçmişi Kalıcı Yapma
+- [ ] Sesli Komut ve Konuşma Özelliği (Whisper API)
 
 ---
 
