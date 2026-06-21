@@ -1,6 +1,6 @@
 # Merhaba, Ben Emre Keçici 👋
 
-Termux ve Flask tabanlı yerel yapay zeka entegrasyonları, büyük dil modelleri (LLM) yönetimi ve özel API failover mekanizmaları üzerinde çalışan bir Full-Stack geliştiriciyim.
+Termux ve Flask tabanlı yerel yapay zeka entegrasyonları, büyük dil modelleri (LLM) yönetimi ve özel API failover mekanizmaları üzerinde çalışan bir Full Stack geliştiriciyim.
 
 ---
 
