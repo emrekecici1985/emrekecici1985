@@ -37,7 +37,7 @@ Sistem mimarisini daha da büyütmek için planladığım gelecek adımları:
 ### 📬 Benimle İletişime Geçin
 Projelerimi takip etmek veya doğrudan e-posta göndermek için aşağıdaki kanalları kullanabilirsiniz:
 
-[! LinkedIn](https://www.linkedin.com/in/emrekecici)](https://iki.tap/emrekecici1985)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profilimi_Ziyaret_Et-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emrekecici))](https://iki.tap/emrekecici1985)
 [![Email](https://img.shields.io/badge/E_Posta-Mesaj_Gönder-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emrekecici1985@gmail.com)
 
 
