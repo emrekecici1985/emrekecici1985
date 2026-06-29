@@ -12,7 +12,7 @@ Termux ve Flask tabanlı yerel yapay zeka entegrasyonları, büyük dil modeller
 
 ---
 
-### 🗺️ Proje Yol Haritası (Roadmap)
+### 🗺️ Proje Yol Haritası
 Sistem mimarisini daha da büyütmek için planladığım gelecek adımları:
 - [x] Python Flask Altyapısının Kurulması
 - [x] Çoklu API Anahtarı ve Failover Mekanizması (`rotate_key`)
