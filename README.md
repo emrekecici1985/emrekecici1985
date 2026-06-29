@@ -12,21 +12,6 @@ Termux ve Flask tabanlı yerel yapay zeka entegrasyonları, büyük dil modeller
 
 ---
 
-## 🚀 Canlı GitHub İstatistiklerim
-
-Günlüklerin ve kod aktivitelerinin geliştirilmesinin anlık özeti:
-
-<p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=emrekecici1985&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Emre'nin GitHub İstatistikleri" width="48%" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=emrekecici1985&layout=compact&theme=tokyonight&hide_border=false" alt="En Çok Kullanılan Diller" width="48%" />
-</p>
-
-
-
- 
-
----
-
 ### 🗺️ Proje Yol Haritası (Roadmap)
 Sistem mimarisini daha da büyütmek için planladığım gelecek adımları:
 - [x] Python Flask Altyapısının Kurulması
